@@ -8,4 +8,4 @@
 
 Repo link: https://github.com/yashNooo/Ambient-Theme-Login-Page.git
 
-playable link:
+playable link: https://yashnooo.github.io/Ambient-Theme-Login-Page/
